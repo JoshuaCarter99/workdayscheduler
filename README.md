@@ -2,10 +2,10 @@
 
 ## Description
 
-- My motivation towards completing this project was in wanting to build a functioning quiz with proper interactivity, response from interactivity, and results of interactivity.
-- I built this project to display what I have learned about JavaScript function within WebAPIs and to learn new details along the way.
-- The problem solved within the challenge was building a functioning quiz that showed results (in the manner of a score and leaderboard placement) and that would have proper interactivity with multiple choice questions.
-- I learned how to build a multi-faceted webpage that required certain elements to be hidden until a certain point in the process, acting as if another page was being brought up in the process.
+- My motivation towards completing this project was in wanting to build a functioning single day planner with the ability to save/store written tasks so users don't lose what they wrote down.
+- I built this project to display what I have learned about JavaScript time functions, HTML bootstrap/font links, and to display an understanding of digestable UI through CSS.
+- The problem solved within the challenge was building a single day planner, with specific tasks being: applying user's current hour to color match planner's hour grid, providing localstorage function so user doesn't lose written inventory, and creating functional UI to accompany script.
+- I learned how to build a functional app that utilized specific time and storage functions.
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -20,13 +20,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 1. Created repository on GitHub.com and cloned repository locally to desktop.
 2. Created index.html and created script for the entirety of HTML first to make sure all labels and general format were in check before working on JS.
 3. Created script.js and made sure it was able to interact with HTML properly.
-4. Created style.css and worked on CSS last to ensure webpage looked semi-appealing.
-5. Pushed local changes back to main branch on original GitHub repository (via GitHub.com), and deployed code at live URL.
+4. Ensured all links to fonts, bootstrap, etc. were functional with code.
+5. Created style.css and worked on CSS last to ensure webpage looked semi-appealing.
+6. Pushed local changes back to main branch on original GitHub repository (via GitHub.com), and deployed code at live URL.
 
 
 ## Usage
 
-Open the provided URL on your desired browser to access the quiz. Choose the correct answers to get a highscore and rank high on the leaderboard. 
+Open the provided URL on your desired browser to access the planner. Add tasks to planner and click the save button to save written tasks to local storage. 
 
 ## Credits
 
