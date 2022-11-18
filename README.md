@@ -37,7 +37,7 @@ UPenn Full Stack Coding Module 5: Web API
 w3schools.com
 
 ## Link
-Webiste
+Website
 https://joshuacarter99.github.io/workdayscheduler/
 
 Repo
